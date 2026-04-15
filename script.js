@@ -9,7 +9,8 @@ const projetos = [
     { title: 'Sorteio de nomes', img: 'sorteioNomes3.png', link: 'https://sousa44.github.io/sorteio-de-nomes/' },
     { title: 'Delicias do Sabor', img: 'deliciasDoSabor-img.png', link: 'https://sousa44.github.io/Delicias-do-Sabor/' },
     { title: 'Suas Vendas', img: 'projetoVendas-img.png', link: 'https://sousa44.github.io/projetoVendas/' },
-    { title: 'Empresa Local', img: 'empresaLocal.png', link: 'https://sousa44.github.io/empresaLocal/#' }
+    { title: 'Empresa Local', img: 'empresaLocal.png', link: 'https://sousa44.github.io/empresaLocal/#' },
+    { title: 'Tech Solutions', img: 'techSolutions.png', link: 'https://sousa44.github.io/techSolutions/' }
 ]
 
 // elementos dom
